@@ -67,7 +67,7 @@
 <a href="https://www.linkedin.com/in/rafitc/">
   <img align="left" alt="Suvarnesh K M | Linkedin" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-linkedin-2.svg" />
 </a>
-<a href="https://www.instagram.com/rafitc/">
+<a href="https://www.instagram.com/rafirasheed_/">
   <img align="left" alt="Suvarnesh K M | Instagram" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-instagram-logo.svg" />
 </a>
 </p>
