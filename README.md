@@ -42,7 +42,7 @@
 
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=rafitc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
-        <img title="🔥 Get streak stats for your profile" alt="Suvarnesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rafitc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile" alt="Rafi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rafitc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -62,13 +62,13 @@
 <p align="left">
 
 <a href="https://twitter.com/iamRafiRasheed">
-  <img align="left" alt="Suvarnesh K M | Twitter" width="40px" height="40px" src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-twitter.svg" />
+  <img align="left" alt="Rafi | Twitter" width="40px" height="40px" src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rafitc/">
-  <img align="left" alt="Suvarnesh K M | Linkedin" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-linkedin-2.svg" />
+  <img align="left" alt="Rafi | Linkedin" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-linkedin-2.svg" />
 </a>
 <a href="https://www.instagram.com/rafirasheed_/">
-  <img align="left" alt="Suvarnesh K M | Instagram" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-instagram-logo.svg" />
+  <img align="left" alt="Rafi | Instagram" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-instagram-logo.svg" />
 </a>
 </p>
 
