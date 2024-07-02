@@ -4,10 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- :sunglasses: I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning RTOS and Node js;
+- :sunglasses: I’m currently working on [Lamhat-Digital photo frame](https://github.com/rafitc/lamhat) :wink:; 
+- 🌱 I’m currently learning GO;
 - 💬 Ask me about anything, I am happy to help;
-- :milky_way: Still discovering the mysteries in universe
 - :rocket:[Portfolio](https://rafirasheed.co)
 
 <br/>
