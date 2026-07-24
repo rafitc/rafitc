@@ -24,17 +24,14 @@ I enjoy working closer to the backend — designing systems, debugging productio
 
 ### 🛠 Things I've been building
 
-**Maxemo**
-AI-powered medical knowledge and personalized learning platform.
+**Maxemo** — AI-powered medical knowledge and personalized learning platform.
 
-**ChaiUndo ☕**
-Making spontaneous chai meetups happen.
+**ChaiUndo ☕** — Making spontaneous chai meetups happen.
 
-**Sann**
-A digital wellbeing experiment for spending a little less time staring at screens.
+**Sann** — A digital wellbeing experiment for spending a little less time staring at screens.
 
-And a bunch of smaller experiments that may or may not have survived production. :)
----
+*And a bunch of smaller experiments that may or may not have survived production. :)*
+
 
 ### 🐧 Things I like
 
@@ -42,22 +39,13 @@ Linux · Backend Engineering · System Design · Self-hosting · Open Source · 
 
 I'm particularly fascinated by the **Linux kernel** and the infrastructure that quietly keeps everything else running.
 
----
 
-### 📊 GitHub
+### 🌍 Find me elsewhere
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafitc&show_icons=true&hide_border=true&theme=transparent" alt="Rafi's GitHub stats" />
-</p>
+[Portfolio](https://rafirasheed.co) · [LinkedIn](https://www.linkedin.com/in/rafitc/) · [X](https://twitter.com/iamRafiRasheed)
 
----
-
-### 🌎 Find me elsewhere
-
-**Portfolio:** https://rafirasheed.co
-**LinkedIn:** https://www.linkedin.com/in/rafitc/
-**X:** https://twitter.com/iamRafiRasheed
-
----
+<br>
 
 <sub>Mostly building things, breaking things, and occasionally documenting why they broke.</sub>
+
+---
